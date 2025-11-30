@@ -3,3 +3,6 @@
 This project is currently just a copy-paste of my Tekken 3 project, so nothing corresponds to Tekken 2 yet.
 I will publish a first release once everything is ready and properly configured.
 Thank you for your patience.
+
+
+v0.0.1 — Cleaned up the files to have a healthy/solid base for Tekken 2

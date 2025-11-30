@@ -1,37 +1,49 @@
 {
     "data": [
         {
+            "name": "Alex",
+            "category": ["Boy", "Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Angel",
+            "category": ["Girl", "Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
             "name": "Anna",
             "category": ["Girl", "Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Bryan",
+            "name": "Armor King",
             "category": ["Boy", "Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Doctor Bosconovitch",
+            "name": "Baek",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Eddy",
+            "name": "Bruce",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Gon",
+            "name": "Devil",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Gun Jack",
+            "name": "Ganryu",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
@@ -43,20 +55,20 @@
             "progression": true
         },
         {
-            "name": "Hwoarang",
+            "name": "Jack-2",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Jin",
-            "category": ["Boy","Characters"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Julia",
+            "name": "Jun",
             "category": ["Girl","Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Kazuya",
+            "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
@@ -73,7 +85,19 @@
             "progression": true
         },
         {
+            "name": "Kunimitsu",
+            "category": ["Girl","Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
             "name": "Law",
+            "category": ["Boy","Characters"],
+            "count": 1,
+            "progression": true
+        },
+        {
+            "name": "Lee",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
@@ -85,31 +109,13 @@
             "progression": true
         },
         {
-            "name": "Mokujin (F)",
+            "name": "Michelle",
             "category": ["Girl","Characters"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Mokujin (M)",
-            "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
             "name": "Nina",
-            "category": ["Girl","Characters"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Ogre",
-            "category": ["Boy","Characters"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Panda",
             "category": ["Girl","Characters"],
             "count": 1,
             "progression": true
@@ -121,20 +127,20 @@
             "progression": true
         },
         {
-            "name": "Tiger",
+            "name": "P.Jack",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "True Ogre",
+            "name": "Roger",
             "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
         {
-            "name": "Xiaoyu",
-            "category": ["Girl","Characters"],
+            "name": "Wang",
+            "category": ["Boy","Characters"],
             "count": 1,
             "progression": true
         },
@@ -166,39 +172,6 @@
             "name": "Survival Mode",
             "category": ["Game_Mode"],
             "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Tekken Ball Mode",
-            "category": ["Game_Mode"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Tekken Force Mode",
-            "category": ["Game_Mode"],
-            "count": 1,
-            "progression": true
-        },
-        {
-            "name": "Beach Ball",
-            "category": ["Tekken_Ball"],
-            "count": 1
-        },
-        {
-            "name": "Iron Ball",
-            "category": ["Tekken_Ball"],
-            "count": 1
-        },
-        {
-            "name": "Gum Ball",
-            "category": ["Tekken_Ball"],
-            "count": 1
-        },
-        {
-            "name": "Progressive Tekken Force Stage",
-            "category": ["Tekken_Force_Stages"],
-            "count": 4,
             "progression": true
         },
         {
@@ -239,11 +212,6 @@
         },
         {
             "name": "Fight Count 4",
-            "category": ["Fight_Count"],
-            "count": 1
-        },
-        {
-            "name": "Fight Count 5",
             "category": ["Fight_Count"],
             "count": 1
         },
